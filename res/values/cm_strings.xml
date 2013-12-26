@@ -1247,6 +1247,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
 
     <string name="wake_on_notification_summary">Wake device when a new notification is received</string>
     <string name="wake_on_notification">Wake on notification</string>
+    <string name="notifications_height_summary">Number of notifications displayed at once</string>
+    <string name="notifications_height">Notification count</string>
     <!-- Lockscreen Notifications -->
     <string name="lockscreen_notifications">Lockscreen notifications</string>
     <string name="lockscreen_notifications_summary">Show pending notifications on lockscreen</string>
